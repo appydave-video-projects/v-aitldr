@@ -1,0 +1,287 @@
+{
+  "metadata": {
+    "title": "AppyDave Advert",
+    "projectName": "appydave-advert",
+    "totalBeats": 3,
+    "generatedAt": "2025-10-10T02:00:05.424Z",
+    "generationTechnique": "animated-image",
+    "totalVisualConcepts": 3,
+    "totalImageVariations": 6,
+    "totalAnimations": 6,
+    "totalDuration": 14,
+    "dataSize": 10645,
+    "lastModified": "2025-10-10T02:00:05.424Z",
+    "projectPath": "/Users/davidcruwys/dev/clients/voz/projects/appydave-advert",
+    "hasImages": false,
+    "errors": 0
+  },
+  "contextDocuments": [
+    {
+      "type": "styleguide",
+      "reference": "data/styleguide.md",
+      "summary": "1930s French village, Studio Ghibli watercolor style, warm earth tones"
+    },
+    {
+      "type": "style-rules-scenes",
+      "reference": "data/source/appydave-advert-visualguide.json",
+      "summary": "Diarahma Rules Guide"
+    },
+    {
+      "type": "style-rules-appydave",
+      "character": "appydave",
+      "reference": "data/source/appydave-advert-appydave.json",
+      "summary": "AppyDave Profile Description"
+    }
+  ],
+  "chapterStyleOverrides": [],
+  "beats": [
+    {
+      "id": 1,
+      "timing": {
+        "start": "00:00.000",
+        "end": "00:05.000",
+        "duration": 5000,
+        "startSeconds": 0,
+        "endSeconds": 5
+      },
+      "narrative": {
+        "text": "When your prompts are scattered and your agents don't connect.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Floating scattered prompt windows glowing faintly in darkness, representing disorganized AI workflow.",
+        "defaultCharacters": [],
+        "defaultAmbiance": "Cool digital glow, dark contrast, cinematic focus.",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Close-up: prompt windows drift past camera, subtle depth of field.",
+          "attributes": {
+            "setting": "Floating scattered prompt windows glowing faintly in darkness, representing disorganized AI workflow.",
+            "characters": [],
+            "ambiance": "Cool digital glow, dark contrast, cinematic focus.",
+            "shotDescription": "Close-up: prompt windows drift past camera, subtle depth of field.",
+            "mood": "dark-stormy"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "bb15451f",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "create image in 16:9 widescreen format: floating scattered prompt windows glowing faintly in darkness, cinematic lighting, digital workspace chaos, dark neutral background.",
+              "imageFile": "01-1-1-close-up-bb15451f.png",
+              "status": "pending",
+              "animations": [
+                {
+                  "animationNumber": 1,
+                  "animationUuid": "994142a1",
+                  "prompt": "animate with smooth folding transition from scattered prompts to connected grid, subtle parallax motion, cinematic reveal.",
+                  "file": "01-1-1-1-close-up-994142a1.mp4",
+                  "status": "approved"
+                }
+              ]
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "6dbcc637",
+              "label": "wide",
+              "shotType": "wide",
+              "imagePrompt": "create image in 16:9 widescreen format: wide shot of multiple AI prompt windows floating in space, cool blue tones, minimal clean cinematic look.",
+              "imageFile": "01-1-2-wide-6dbcc637.png",
+              "status": "pending",
+              "animations": [
+                {
+                  "animationNumber": 1,
+                  "animationUuid": "32d71f89",
+                  "prompt": "animate with drifting motion of glowing prompts, folding inward to align, gentle depth of field shift.",
+                  "file": "01-1-2-1-wide-32d71f89.mp4",
+                  "status": "approved"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 2,
+      "timing": {
+        "start": "00:05.000",
+        "end": "00:09.000",
+        "duration": 4000,
+        "startSeconds": 5,
+        "endSeconds": 9
+      },
+      "narrative": {
+        "text": "When your workflow feels like chaos, maybe you need more than another tool.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Icons and code fragments connect to form the AppyDave logo, signifying harmony and structure.",
+        "defaultCharacters": [],
+        "defaultAmbiance": "Warm gold highlights, clean branding light.",
+        "defaultMood": "warm, peaceful"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Close-up: luminous particles linking to shape lines of the logo.",
+          "attributes": {
+            "setting": "Icons and code fragments connect to form the AppyDave logo, signifying harmony and structure.",
+            "characters": [],
+            "ambiance": "Warm gold highlights, clean branding light.",
+            "shotDescription": "Close-up: luminous particles linking to shape lines of the logo.",
+            "mood": "warm, peaceful"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "c82949d4",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "create image in 16:9 widescreen format: close-up of luminous particles connecting to form AppyDave logo, cinematic glow, gold accents.",
+              "imageFile": "02-1-1-close-up-c82949d4.png",
+              "status": "pending",
+              "animations": [
+                {
+                  "animationNumber": 1,
+                  "animationUuid": "982cb9ee",
+                  "prompt": "animate logo formation from luminous particles, fold and connect lines, glow intensifies then stabilizes.",
+                  "file": "02-1-1-1-close-up-982cb9ee.mp4",
+                  "status": "approved"
+                }
+              ]
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "0aea9bf3",
+              "label": "wide",
+              "shotType": "wide",
+              "imagePrompt": "create image in 16:9 widescreen format: wide shot of logo formation, soft golden light, clean background, elegant branding tone.",
+              "imageFile": "02-1-2-wide-0aea9bf3.png",
+              "status": "pending",
+              "animations": [
+                {
+                  "animationNumber": 1,
+                  "animationUuid": "6eb4b36d",
+                  "prompt": "animate slow zoom out as logo forms fully, soft fade-in of tagline, elegant rhythm.",
+                  "file": "02-1-2-1-wide-6eb4b36d.mp4",
+                  "status": "approved"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 3,
+      "timing": {
+        "start": "00:09.000",
+        "end": "00:14.000",
+        "duration": 5000,
+        "startSeconds": 9,
+        "endSeconds": 14
+      },
+      "narrative": {
+        "text": "Subscribe to AppyDave on YouTube. Join the Skool community.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "AppyDave end card on dark charcoal platform, glowing logo and beige tagline beneath.",
+        "defaultCharacters": [],
+        "defaultAmbiance": "Minimal, cinematic, calm final tone.",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Close-up: logo surface glowing subtly, crisp branding focus.",
+          "attributes": {
+            "setting": "AppyDave end card on dark charcoal platform, glowing logo and beige tagline beneath.",
+            "characters": [],
+            "ambiance": "Minimal, cinematic, calm final tone.",
+            "shotDescription": "Close-up: logo surface glowing subtly, crisp branding focus.",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "e965f430",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "create image in 16:9 widescreen format: close-up of AppyDave logo glowing on dark charcoal platform, beige tagline beneath, cinematic lighting.",
+              "imageFile": "03-1-1-close-up-e965f430.png",
+              "status": "pending",
+              "animations": [
+                {
+                  "animationNumber": 1,
+                  "animationUuid": "94e63c1c",
+                  "prompt": "animate glowing pulse across AppyDave logo, fade to static end card, minimal branding motion.",
+                  "file": "03-1-1-1-close-up-94e63c1c.mp4",
+                  "status": "approved"
+                }
+              ]
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "d5761b87",
+              "label": "wide",
+              "shotType": "wide",
+              "imagePrompt": "create image in 16:9 widescreen format: wide shot of AppyDave logo centered on floating dark platform, soft rim light, crisp minimal composition.",
+              "imageFile": "03-1-2-wide-d5761b87.png",
+              "status": "pending",
+              "animations": [
+                {
+                  "animationNumber": 1,
+                  "animationUuid": "b6c28653",
+                  "prompt": "animate subtle light ripple over logo surface, gentle fade out to black, cinematic closure.",
+                  "file": "03-1-2-1-wide-b6c28653.mp4",
+                  "status": "approved"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    }
+  ],
+  "globalWordIndex": {
+    "words": []
+  },
+  "timingValidation": {
+    "gaps": [],
+    "totalGaps": 0,
+    "totalGapDuration": 0
+  }
+}

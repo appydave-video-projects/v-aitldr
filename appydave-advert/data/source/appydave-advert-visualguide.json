@@ -1,0 +1,133 @@
+{
+  "look_and_feel": {
+    "title": "Look & Feel (Diorama DNA)",
+    "aesthetic": "handcrafted miniature world; soft edges, tactile surfaces, tiny imperfections.",
+    "scale_cues": "oversized paper fibers, slightly chunky cable sheaths, subtle bevels on UI tiles.",
+    "finish": "semi-matte (avoid mirror gloss); micro-bump for paper/plastic; gentle edge wear.",
+    "palette": [
+      {
+        "name": "Dark Charcoal",
+        "usage": "base/background — grounding & contrast."
+      },
+      {
+        "name": "Warm Beige",
+        "usage": "notes, tiles/nodes, text plates."
+      },
+      {
+        "name": "Vibrant Yellow",
+        "usage": "glow accents, connections, logo light."
+      }
+    ],
+    "mood_arc": "cool/claustrophobic → warm/expansive → crisp/minimal."
+  },
+  "lighting_strategy": {
+    "title": "Lighting Strategy",
+    "global_approach": "one key + one fill + motivated accents; always soft shadows.",
+    "sequences": {
+      "seq_1_3_problem": "cool key (bluish 6500K), low fill, harsher falloff; small rim on screens; vignette to feel cramped.",
+      "seq_4_halo_transition": "add warm volumetric cone (3000–3500K) from above; yellow emissive on connections; lift fill.",
+      "seq_5_resolution": "neutral/soft key (5000K), gentle bounce; reduce contrast; clean reflections.",
+      "seq_6_end_card": "flat, crisp branding light; soft halo behind logo; no visible shadows."
+    }
+  },
+  "camera_and_lensing": {
+    "title": "Camera & Lensing",
+    "aspect": "16:9",
+    "frame_rate": "24 fps (or 30 fps if your pipeline prefers)",
+    "shutter": "180° shutter feel",
+    "lenses": {
+      "close_ups": "50–85 mm equivalent, shallow DOF (f/2.8–4), focus on hands/nodes/logo edges.",
+      "wides": "28–35 mm equivalent, moderate DOF (f/5.6–8) to read the whole diorama."
+    },
+    "movement": "slow dolly or micro-arc; never whip. Halo section uses gentle push-out as order emerges.",
+    "framing": "center gravity on subject; keep safe margins for end card text."
+  },
+  "materials_textures": {
+    "title": "Materials & Textures",
+    "desk_ground": "charcoal polymer with fine sand-like grain; roughness ~0.45.",
+    "sticky_notes_to_tiles_nodes": "start as fibrous paper (subtle warping), morph to smooth polymer/plastic (roughness ~0.25) with soft bevels.",
+    "wires_to_connections": "rubbery cable turning into neon acrylic tubes with emissive yellow core (glow radius small, bloom restrained).",
+    "screens_ui_cards": "matte acrylic with dimmed bloom; no harsh moiré."
+  },
+  "color_mapping": {
+    "title": "Color Mapping (brand-forward)",
+    "background_desk": "Dark Charcoal.",
+    "notes_tiles_nodes_avatars": "Warm Beige base; thin Yellow outline or icon accents.",
+    "connections_highlights_logo": "Vibrant Yellow (emissive); keep within tasteful bloom.",
+    "typography_end_card": "Beige on charcoal; logo in Yellow."
+  },
+  "motion_language": {
+    "title": "Motion Language (Hailuo-02 transition)",
+    "principle": "transform, don’t cut. Keep silhouettes recognizable through the morph.",
+    "seq3_to_seq4": {
+      "notes": "Notes inflate slightly, edges round → beige nodes snap to a grid.",
+      "cables": "Cables untangle along spline paths → yellow light-pipes; add 1–2 frame overshoot snap.",
+      "halo": "Warm volumetric “halo” cone rises as clutter fades via opacity + scale to 95% + blur."
+    },
+    "timing": "~5s problem, ~5s halo transform, ~5s resolve/end card.",
+    "easing": "cubic in/out, no elastic."
+  },
+  "per_sequence_visual_notes": {
+    "title": "Per-Sequence Visual Notes",
+    "seq_1_scattered_prompts": [
+      "Messy desk; notes at varied tilts; blue cast; screen reflections in glasses.",
+      "Micro dust motes in cool rim light (very subtle)."
+    ],
+    "seq_2_agents_dont_connect": [
+      "Hovering beige nodes with broken gray lines; occasional jitter.",
+      "A “near snap” that fails (tiny spark flicker, then die)."
+    ],
+    "seq_3_workflow_chaos": [
+      "Cable knot centerpiece; overlapping panels; tiny red error badges pulsing at 60–80 bpm.",
+      "Slight handheld micro-shake (1–2 px) to feel uneasy (optional)."
+    ],
+    "seq_4_halo_transition": [
+      "Notes → nodes; wires → yellow light-pipes; graph expands around desk.",
+      "Warm god-ray cone; dust motes now golden."
+    ],
+    "seq_5_resolution_system": [
+      "Prompts → Agents → Workflow tiles aligned; soft highlight passes across surfaces.",
+      "Developer relaxed; reflections clean; no jitter."
+    ],
+    "seq_6_end_card": [
+      "Dark charcoal field; logo glowing Yellow; tagline in Beige; 0.5s micro-fade in.",
+      "Hold steady; no parallax."
+    ]
+  },
+  "typography_end_card": {
+    "title": "Typography & End Card",
+    "typeface": "clean geometric sans (medium weight).",
+    "hierarchy": "Logo (Yellow) → Brand name (Beige) → Tagline (Beige, smaller).",
+    "safe_margins": "≥8% frame inset.",
+    "duration": "2.5–3.5s hold for legibility."
+  },
+  "compositing_fx": {
+    "title": "Compositing & FX",
+    "bloom": "low; only on yellow emissive and logo; clamp highlights.",
+    "vignette": "present in problem scenes; remove by end card.",
+    "grain": "ultra-fine film grain to bind CG (0.2–0.3).",
+    "tone_mapping": "Filmic/ACES-like; preserve highlight roll-off on emissives."
+  },
+  "render_delivery": {
+    "title": "Render & Delivery",
+    "resolution": "3840×2160 (master), deliver 1920×1080 too.",
+    "bit_depth": "16-bit EXR if comping; final ProRes 422 HQ / H.264 for social.",
+    "color_space": "Linear to ACEScg in 3D; grade to Rec.709 for delivery.",
+    "audio": "light UI ticks on “snaps”; soft whoosh for halo; no heavy SFX."
+  },
+  "do_and_dont": {
+    "title": "Do / Don’t",
+    "do": [
+      "keep transformations readable",
+      "limit palette",
+      "preserve miniature charm",
+      "emphasize snap-to-order moments"
+    ],
+    "dont": [
+      "add noisy patterns",
+      "over-bloom the yellow",
+      "cut abruptly between problem/solution",
+      "use busy camera moves"
+    ]
+  }
+}
