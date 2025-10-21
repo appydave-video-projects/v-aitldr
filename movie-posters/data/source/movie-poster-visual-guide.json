@@ -1,0 +1,83 @@
+{
+    "Character Look": {
+        "Appearance & Attire": {
+            "Heroes/Protagonists": "Distinct silhouettes, bold attire (capes, armor, neon suits, retro jackets, tribal attire depending on genre).",
+            "Villains": "Sharper lines, darker or contrasting attire, exaggerated textures (spikes, leather, angular cloaks).",
+            "Side Characters": "Stylized but supportive; avoid stealing focus."
+        },
+        "Textures": {
+            "Fantasy": "Metallic armor, dragon scales, flowing fabrics.",
+            "Sci-fi": "Chrome, neon reflections, digital grids.",
+            "Horror": "Gritty fabrics, weathered leather, blood stains.",
+            "Romantic/Drama": "Soft fabrics, subtle folds, natural skin tones."
+        },
+        "Iconic Features": {
+            "Protagonists": "Always identifiable by one unique element (helmet, glowing eyes, scarf, weapon).",
+            "Antagonists": "Iconic silhouettes (long coat, claws, mask).",
+            "Supporting Cast": "Simplified but distinct\u2014color or accessory coded."
+        }
+    },
+    "Color Palette": {
+        "Primary Tones": {
+            "Fantasy": "Deep emeralds, royal blues, metallic gold.",
+            "Sci-fi": "Neon cyan, magenta, ultraviolet, chrome silver.",
+            "Horror": "Sickly greens, blood red, ash black.",
+            "Drama/Romance": "Warm amber, soft pastels, sunset gradients."
+        },
+        "Secondary Tones": "Earthy neutrals (stone gray, parchment beige), muted tones (sepia for retro, desaturated steel for noir).",
+        "Accents": "Glows (neon, magical runes, cosmic starbursts), Fire (embers, sparks, candlelight), Blood splatter or shadow edging.",
+        "Environment-Based Tones": {
+            "Cityscapes": "Blue-gray neon haze.",
+            "Forests": "Moss green, twilight purples.",
+            "Desert": "Sand gold, crimson dusk.",
+            "Space": "Deep indigo, radiant white stars."
+        }
+    },
+    "Lighting Styles": [
+        "Fantasy Glow: Soft ethereal beams, rim lighting around armor or mystical objects.",
+        "Fire & Shadow: Flickering light with deep contrasts, cinematic warmth.",
+        "Celestial: Radiant starlight, wide glows, reflective highlights.",
+        "Dramatic Contrast: Noir-style chiaroscuro, harsh shadow vs spotlight.",
+        "Surreal: Gradient hues, bending shadows, unnatural highlights."
+    ],
+    "Mood": [
+        "Epic: Grand scale, towering environments, heroic stance.",
+        "Mystical: Dreamlike haze, glowing symbols.",
+        "Foreboding: High contrast shadows, oppressive atmosphere.",
+        "Surreal: Distorted geometry, psychedelic colors.",
+        "Playful/Family: Bright saturation, cartoon exaggeration, whimsical framing."
+    ],
+    "Consistency Rules": {
+        "Character Continuity": "Characters must retain signature attire, hair, or features across close-up and wide shots.",
+        "Lighting Continuity": "Same source across shots (if glowing sword lights close-up, it must cast glow in wide).",
+        "Scale": "Maintain epic vs intimate proportions\u2014no shrinking characters unrealistically.",
+        "Harmony with Environment": "Characters must blend tonally into setting (avoid mismatched cut-outs).",
+        "Avoid Clutter": "One focal point per poster, background supports but never overpowers."
+    },
+    "Movie Poster Design Elements": {
+        "Title Typography Style": {
+            "Fantasy": "Engraved serif with glowing edges.",
+            "Sci-fi": "Bold sans-serif with neon or chrome effects.",
+            "Horror": "Distressed, cracked, dripping type.",
+            "Retro": "Hand-drawn or halftone-style block lettering.",
+            "Minimalist/Drama": "Clean, thin sans-serif."
+        },
+        "Placement of Title": {
+            "Fantasy/Epic": "Center or bottom, with glowing underline.",
+            "Action/Sci-fi": "Bottom third, bold and wide.",
+            "Horror": "Top (looming presence) or center (over character).",
+            "Romance/Drama": "Bottom soft placement."
+        },
+        "Tagline Style": "Short, dramatic text above or below title. Example: Action \u2013 'No Limits. No Fear.'",
+        "Credits Block Formatting": "Authentic billing block at bottom, aligned center, small condensed sans-serif.",
+        "Release Date Placement": "Below billing block or above title. Slightly larger font than credits.",
+        "Studio Logos": "Small logos bottom left/right corners, styled realistically.",
+        "Design Enhancements": [
+            "Vignette: Subtle edge darkening.",
+            "Grain: Retro/horror film texture.",
+            "Lens Flare: Sci-fi and action epic.",
+            "Smoke/Light Beams: Mysticism and drama.",
+            "Glowing Effects: Runes, neon outlines, particle glow."
+        ]
+    }
+}

@@ -1,0 +1,3382 @@
+{
+  "metadata": {
+    "title": "50 Movie Posters",
+    "projectName": "movie-posters",
+    "generationTechnique": "animated-image",
+    "totalBeats": 50,
+    "totalVisualConcepts": 50,
+    "totalImageVariations": 100,
+    "totalAnimations": 0,
+    "generatedAt": "2025-10-14T01:47:32.272Z",
+    "totalDuration": 250
+  },
+  "contextDocuments": [
+    {
+      "type": "styleguide",
+      "reference": "data/source/movie-poster-visual-guide.json",
+      "summary": "Visual style guide for movie poster generation"
+    }
+  ],
+  "chapterStyleOverrides": [],
+  "beats": [
+    {
+      "id": 1,
+      "timing": {
+        "start": "00:00.000",
+        "end": "00:05.000",
+        "duration": 5000,
+        "startSeconds": 0,
+        "endSeconds": 5
+      },
+      "narrative": {
+        "text": "Starlight Dreams. A golden marquee glows. Evelyn Starling locks eyes with Marcus Kane beneath velvet ropes and vintage cars.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Starlight Dreams",
+        "defaultCharacters": [
+          "Evelyn Starling",
+          "Marcus Kane"
+        ],
+        "defaultAmbiance": "Soft golden spotlight, romantic & nostalgic",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Starlight Dreams\" (1950s Golden Age Hollywood poster)",
+          "attributes": {
+            "setting": "Starlight Dreams movie poster showcase",
+            "characters": [
+              "Evelyn Starling",
+              "Marcus Kane"
+            ],
+            "ambiance": "Soft golden spotlight, romantic & nostalgic",
+            "shotDescription": "“Starlight Dreams” – 1950s Golden Age Hollywood poster",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "c9c24a4b",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Movie poster for “Starlight Dreams” (1950s Golden Age Hollywood). Close-up of glamorous actress Evelyn Starling with pearls and shimmering gown, golden spotlight on her face, nostalgic cinematic framing. Title typography in elegant serif gold letters, Evelyn’s name aligned at top, tagline: “A Love Written in Stars.” Credits block at bottom, “Coming Soon” below credits. Retro film grain.",
+              "imageFile": "01-1-1-close-up-c9c24a4b.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "dc73ad0c",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Starlight Dreams.” Evelyn Starling with co-star Marcus Kane under glowing theater marquee, paparazzi flashes, 1950s cars parked outside. Title centered at bottom in golden Hollywood style. Tagline across top: “The Golden Age Never Fades.” Evelyn and Marcus names aligned top, billing block + “Coming Soon” at bottom. Warm spotlight.",
+              "imageFile": "01-1-2-widescreen-dc73ad0c.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 2,
+      "timing": {
+        "start": "00:05.000",
+        "end": "00:10.000",
+        "duration": 5000,
+        "startSeconds": 5,
+        "endSeconds": 10
+      },
+      "narrative": {
+        "text": "Blood Streets. 1970s grindhouse exploitation.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Blood Streets",
+        "defaultCharacters": [
+          "Rex Callahan"
+        ],
+        "defaultAmbiance": "Harsh neon-reds, sweaty grit",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Blood Streets\" (1970s grindhouse exploitation)",
+          "attributes": {
+            "setting": "Blood Streets movie poster showcase",
+            "characters": [
+              "Rex Callahan"
+            ],
+            "ambiance": "Harsh neon-reds, sweaty grit",
+            "shotDescription": "“Blood Streets” – 1970s grindhouse exploitation",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "c9e566ff",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Grindhouse poster for “Blood Streets.” Close-up of rugged anti-hero Rex Callahan, bruised and bleeding, neon red glow on his face. Bold distressed title font in lurid yellow at bottom. Rex’s name at top, tagline: “No Mercy. No Escape.” Billing block bottom. Gritty film grain.",
+              "imageFile": "02-1-1-close-up-c9e566ff.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "b5f8d67d",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Exploitation-style poster for “Blood Streets.” Rex Callahan with femme fatale Veronica Blaze beside muscle car under neon lights. Background: graffiti alleys, broken glass. Title large at bottom-center, tagline above: “In This City, Violence Has No Rules.” Rex and Veronica names stacked top, credits block bottom. Lurid neon palette.",
+              "imageFile": "02-1-2-widescreen-b5f8d67d.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 3,
+      "timing": {
+        "start": "00:10.000",
+        "end": "00:15.000",
+        "duration": 5000,
+        "startSeconds": 10,
+        "endSeconds": 15
+      },
+      "narrative": {
+        "text": "Neon Horizon. Caelan Voss rockets a light bike through a vector highway. Rival headlights close in as skyscrapers glow, grid blue.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Neon Horizon",
+        "defaultCharacters": [
+          "Lyra Korrin"
+        ],
+        "defaultAmbiance": "Electric neon blues & pinks",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Neon Horizon\" (1980s neon sci-fi (Tron-style))",
+          "attributes": {
+            "setting": "Neon Horizon movie poster showcase",
+            "characters": [
+              "Lyra Korrin"
+            ],
+            "ambiance": "Electric neon blues & pinks",
+            "shotDescription": "“Neon Horizon” – 1980s neon sci-fi (Tron-style)",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "12c877d5",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Neon sci-fi poster “Neon Horizon.” Close-up of Kaelen Voss as cybernetic hero, helmet reflecting glowing gridlines. Title in bold chrome typography at bottom, Kaelen’s name aligned top. Tagline: “The Future is Electric.” Billing block + studio logos at bottom. Neon pink/blue glow.",
+              "imageFile": "03-1-1-close-up-12c877d5.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "4ce8a303",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Neon Horizon.” Kaelen Voss on glowing light bike racing across futuristic cyber city with rival Lyra Korrin chasing. Neon grid buildings, electric trails. Title at bottom in chrome bold, tagline across top: “Racing Against Tomorrow.” Kaelen and Lyra names top aligned, credits block at bottom. Neon sci-fi aesthetic.",
+              "imageFile": "03-1-2-widescreen-4ce8a303.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 4,
+      "timing": {
+        "start": "00:15.000",
+        "end": "00:20.000",
+        "duration": 5000,
+        "startSeconds": 15,
+        "endSeconds": 20
+      },
+      "narrative": {
+        "text": "Dil Se Pyar. Retro hand-painted Bollywood.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Dil Se Pyar",
+        "defaultCharacters": [],
+        "defaultAmbiance": "Saturated warm tones",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Dil Se Pyar\" (Retro hand-painted Bollywood)",
+          "attributes": {
+            "setting": "Dil Se Pyar movie poster showcase",
+            "characters": [],
+            "ambiance": "Saturated warm tones",
+            "shotDescription": "“Dil Se Pyar” – Retro hand-painted Bollywood",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "ca77c27a",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Bollywood-style poster “Dil Se Pyar.” Painted close-up of romantic couple Arjun Malhotra and Priya Devika in intimate embrace, ornate swirls. Title in bold painted script at bottom. Tagline: “A Love Eternal.” Actor names at top, credits block bottom, warm glowing colors.",
+              "imageFile": "04-1-1-close-up-ca77c27a.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "c0ad1df6",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Painted ensemble poster for “Dil Se Pyar.” Arjun Malhotra and Priya Devika dancing before palace backdrop, fireworks in the sky, ornate Bollywood flourishes. Title bold across bottom, tagline above: “Love Beyond All Barriers.” Credits block + studio logos at bottom. Saturated warm palette.",
+              "imageFile": "04-1-2-widescreen-c0ad1df6.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 5,
+      "timing": {
+        "start": "00:20.000",
+        "end": "00:25.000",
+        "duration": 5000,
+        "startSeconds": 20,
+        "endSeconds": 25
+      },
+      "narrative": {
+        "text": "Fist of Destiny. Lantern flames quiver as Hiro Tanaka faces rival Wei Zhang. Every strike shatters the air in slow, thunderous impact.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Fist of Destiny",
+        "defaultCharacters": [
+          "Hiro Tanaka",
+          "Wei Zhang"
+        ],
+        "defaultAmbiance": "High-contrast reds & yellows",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Fist of Destiny\" (Vintage martial arts kung fu)",
+          "attributes": {
+            "setting": "Fist of Destiny movie poster showcase",
+            "characters": [
+              "Hiro Tanaka",
+              "Wei Zhang"
+            ],
+            "ambiance": "High-contrast reds & yellows",
+            "shotDescription": "“Fist of Destiny” – Vintage martial arts kung fu",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "afb317ab",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Kung fu poster “Fist of Destiny.” Close-up of martial artist Hiro Tanaka in battle stance, sweat and determination in his eyes. Bold brushstroke title at bottom. Hiro’s name aligned top, tagline: “Honor Never Dies.” Billing block bottom. High-contrast reds & yellows.",
+              "imageFile": "05-1-1-close-up-afb317ab.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "b0cf8ac5",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Fist of Destiny.” Hiro Tanaka dueling rival Wei Zhang in temple courtyard with hanging lanterns. Title in brushstroke font at bottom, tagline across top: “One Fight, One Destiny.” Hiro and Wei names aligned top, credits block bottom. Martial arts retro palette.",
+              "imageFile": "05-1-2-widescreen-b0cf8ac5.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 6,
+      "timing": {
+        "start": "00:25.000",
+        "end": "00:30.000",
+        "duration": 5000,
+        "startSeconds": 25,
+        "endSeconds": 30
+      },
+      "narrative": {
+        "text": "High Noon Revenge. A tumbleweed rolls between Cole Maddox and outlaw Silas Boone. The dusty street freezes in silence.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for High Noon Revenge",
+        "defaultCharacters": [],
+        "defaultAmbiance": "Sepia, sun-baked grit",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"High Noon Revenge\" (Classic Spaghetti Western)",
+          "attributes": {
+            "setting": "High Noon Revenge movie poster showcase",
+            "characters": [],
+            "ambiance": "Sepia, sun-baked grit",
+            "shotDescription": "“High Noon Revenge” – Classic Spaghetti Western",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "bdf29961",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Spaghetti Western poster “High Noon Revenge.” Close-up of gunslinger Cole Maddox, weathered face, hand hovering over revolver. Sepia desert glow. Title in cracked serif font at bottom. Cole’s name aligned top, tagline: “A Reckoning at Sundown.” Billing block bottom.",
+              "imageFile": "06-1-1-close-up-bdf29961.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "07063efa",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “High Noon Revenge.” Cole Maddox facing outlaw Silas Boone in dusty frontier town street, tumbleweeds rolling. Title bold at bottom, tagline across top: “Only One Will Walk Away.” Cole and Silas names aligned top, credits block bottom. Cinematic sepia tones.",
+              "imageFile": "06-1-2-widescreen-07063efa.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 7,
+      "timing": {
+        "start": "00:30.000",
+        "end": "00:35.000",
+        "duration": 5000,
+        "startSeconds": 30,
+        "endSeconds": 35
+      },
+      "narrative": {
+        "text": "Midnight Alley. A lamppost glow cuts the rain. Jack Sullivan watches as Vivian Cross steps from the shadows.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Midnight Alley",
+        "defaultCharacters": [
+          "Jack Sullivan"
+        ],
+        "defaultAmbiance": "Smoky chiaroscuro",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Midnight Alley\" (1940s noir detective)",
+          "attributes": {
+            "setting": "Midnight Alley movie poster showcase",
+            "characters": [
+              "Jack Sullivan"
+            ],
+            "ambiance": "Smoky chiaroscuro",
+            "shotDescription": "“Midnight Alley” – 1940s noir detective",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "6db5f10e",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Noir poster “Midnight Alley.” Close-up of trench-coated detective Jack Sullivan, cigarette ember lighting his face in shadows. Title in bold noir serif at bottom. Jack’s name aligned top, tagline: “Every Secret Has a Price.” Billing block bottom. Smoky chiaroscuro.",
+              "imageFile": "07-1-1-close-up-6db5f10e.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "8bd75201",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Midnight Alley.” Jack Sullivan standing in rain-slick alley under lamppost, Vivienne Cross (femme fatale) watching from shadows. Title centered at bottom, tagline above: “The Truth Never Sleeps.” Jack and Vivienne names top, credits block bottom. Noir shadowed palette.",
+              "imageFile": "07-1-2-widescreen-8bd75201.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 8,
+      "timing": {
+        "start": "00:35.000",
+        "end": "00:40.000",
+        "duration": 5000,
+        "startSeconds": 35,
+        "endSeconds": 40
+      },
+      "narrative": {
+        "text": "Color Clash. Lana Rivers snaps into pose, colors exploding behind. Panels shift in CMYK blocks.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Color Clash",
+        "defaultCharacters": [
+          "Lana Rivers"
+        ],
+        "defaultAmbiance": "Flat, playful",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Color Clash\" (Pop art Warhol-inspired)",
+          "attributes": {
+            "setting": "Color Clash movie poster showcase",
+            "characters": [
+              "Lana Rivers"
+            ],
+            "ambiance": "Flat, playful",
+            "shotDescription": "“Color Clash” – Pop art Warhol-inspired",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "07251827",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Pop art poster “Color Clash.” Halftone close-up of bold heroine Lana Rivers in neon magenta, flat graphic style. Title in Warhol-inspired block letters at bottom. Lana’s name aligned top, tagline: “Every Shade Tells a Story.” Billing block bottom. Bright comic palette.",
+              "imageFile": "08-1-1-close-up-07251827.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "564c3ad1",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Color Clash.” Lana Rivers with ensemble cast Diego Marlowe and Sophia Grant, each in contrasting color panels. Title bold at bottom, tagline across top: “Life in Pop Art Motion.” Names aligned top, credits block bottom. Vibrant graphic palette.",
+              "imageFile": "08-1-2-widescreen-564c3ad1.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 9,
+      "timing": {
+        "start": "00:40.000",
+        "end": "00:45.000",
+        "duration": 5000,
+        "startSeconds": 40,
+        "endSeconds": 45
+      },
+      "narrative": {
+        "text": "Cosmic Riffs. Axel Stormstrums and the stage dissolves into galaxies. Stars bend to the music as Nova Blaze and Orion Cade join in.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Cosmic Riffs",
+        "defaultCharacters": [
+          "Axel Storm"
+        ],
+        "defaultAmbiance": "Kaleidoscopic neon",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Cosmic Riffs\" (Psychedelic 1960s concert hybrid)",
+          "attributes": {
+            "setting": "Cosmic Riffs movie poster showcase",
+            "characters": [
+              "Axel Storm"
+            ],
+            "ambiance": "Kaleidoscopic neon",
+            "shotDescription": "“Cosmic Riffs” – Psychedelic 1960s concert hybrid",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "e703d4a4",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Psychedelic poster “Cosmic Riffs.” Surreal close-up of musician Axel Storm, face morphing into fractal spirals. Title in swirling neon type at bottom. Axel’s name aligned top, tagline: “The Sound Beyond Reality.” Billing block bottom. Psychedelic glow.",
+              "imageFile": "09-1-1-close-up-e703d4a4.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "4eb1b71c",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Cosmic Riffs.” Axel Storm leading bandmates Nova Blaze and Orion Kade on surreal cosmic stage dissolving into neon galaxy. Title at bottom, tagline above: “Music That Shatters the Stars.” Names aligned top, credits block bottom. Vibrant kaleidoscope palette.",
+              "imageFile": "09-1-2-widescreen-4eb1b71c.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 10,
+      "timing": {
+        "start": "00:45.000",
+        "end": "00:50.000",
+        "duration": 5000,
+        "startSeconds": 45,
+        "endSeconds": 50
+      },
+      "narrative": {
+        "text": "Terror from the Swamp. Green fog boils. Clara Monroe runs as a behemoth rises from black waters.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Terror From the Swamp",
+        "defaultCharacters": [
+          "Clara Monroe"
+        ],
+        "defaultAmbiance": "Lurid greens & purples",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Terror From the Swamp\" (Vintage horror B-movie)",
+          "attributes": {
+            "setting": "Terror From the Swamp movie poster showcase",
+            "characters": [
+              "Clara Monroe"
+            ],
+            "ambiance": "Lurid greens & purples",
+            "shotDescription": "“Terror From the Swamp” – Vintage horror B-movie",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "6e843fd1",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Horror B-movie poster “Terror From the Swamp.” Close-up of scream queen Clara Monroe with terrified wide eyes, lurid green glow. Title in dripping pulp-style font at bottom. Clara’s name aligned top, tagline: “It Came From the Depths.” Billing block bottom. Campy horror palette.",
+              "imageFile": "10-1-1-close-up-6e843fd1.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "211a5dda",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Terror From the Swamp.” Clara Monroe running from giant swamp monster with townsfolk fleeing in panic. Title bold across bottom, tagline above: “No One Escapes the Mire.” Clara’s name + supporting cast aligned top, credits block bottom. Lurid purple-green horror tones.",
+              "imageFile": "10-1-2-widescreen-211a5dda.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 11,
+      "timing": {
+        "start": "00:50.000",
+        "end": "00:55.000",
+        "duration": 5000,
+        "startSeconds": 50,
+        "endSeconds": 55
+      },
+      "narrative": {
+        "text": "Eternal Guardians. A shield of light blazes as Adrian Cross stands firm. Allies bracing behind.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Eternal Guardians",
+        "defaultCharacters": [
+          "Adrian Cross"
+        ],
+        "defaultAmbiance": "Bright, epic tones",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Eternal Guardians\" (Marvel-style superhero)",
+          "attributes": {
+            "setting": "Eternal Guardians movie poster showcase",
+            "characters": [
+              "Adrian Cross"
+            ],
+            "ambiance": "Bright, epic tones",
+            "shotDescription": "“Eternal Guardians” – Marvel-style superhero",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "a3ca1221",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Marvel-style poster “Eternal Guardians.” Close-up of superhero Adrian Cross with glowing aura, determined expression. Title in bold metallic block font at bottom. Adrian’s name aligned top, tagline: “Together, They Stand Eternal.” Billing block bottom. Bright heroic palette.",
+              "imageFile": "11-1-1-close-up-a3ca1221.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "a2a2136f",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Eternal Guardians.” Adrian Cross leading superhero team Selene Drake, Orion Vega, Juno Reyes on apocalyptic battlefield. Title bold bottom-center, tagline across top: “A New Age of Heroes.” Names aligned top, credits block bottom. Epic glowing colors.",
+              "imageFile": "11-1-2-widescreen-a2a2136f.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 12,
+      "timing": {
+        "start": "00:55.000",
+        "end": "01:00.000",
+        "duration": 5000,
+        "startSeconds": 55,
+        "endSeconds": 60
+      },
+      "narrative": {
+        "text": "Shadows of Vengeance. Storm clouds churn as Damien Vane stalks a rooftop edge. Lightning flickers.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Shadows of Vengeance",
+        "defaultCharacters": [
+          "Malik Graves"
+        ],
+        "defaultAmbiance": "Stark, high-contrast",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Shadows of Vengeance\" (DC gritty poster)",
+          "attributes": {
+            "setting": "Shadows of Vengeance movie poster showcase",
+            "characters": [
+              "Malik Graves"
+            ],
+            "ambiance": "Stark, high-contrast",
+            "shotDescription": "“Shadows of Vengeance” – DC gritty poster",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "74bfddf9",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: DC-style gritty poster “Shadows of Vengeance.” Close-up of brooding vigilante Damien Veyne, rain streaking across his masked face. Title in sharp serif bold font at bottom. Damien’s name aligned top, tagline: “Darkness is Justice.” Billing block bottom. Harsh shadows.",
+              "imageFile": "12-1-1-close-up-74bfddf9.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "30bd74b3",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Shadows of Vengeance.” Damien Veyne perched on a rooftop, storm clouds swirling, facing villain Malik Graves below. Title centered at bottom, tagline across top: “Vengeance Casts a Long Shadow.” Damien and Malik names top, credits block bottom. Dark moody palette.",
+              "imageFile": "12-1-2-widescreen-30bd74b3.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 13,
+      "timing": {
+        "start": "01:00.000",
+        "end": "01:05.000",
+        "duration": 5000,
+        "startSeconds": 60,
+        "endSeconds": 65
+      },
+      "narrative": {
+        "text": "Starbound Legacy. In cosmic fire, Kaelin Drax meets villain Vera Kael. Fleets burn in nebula haze.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Starbound Legacy",
+        "defaultCharacters": [
+          "Kaelen Drax",
+          "Veyra Kael"
+        ],
+        "defaultAmbiance": "Celestial glow",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Starbound Legacy\" (Star Wars-inspired space opera)",
+          "attributes": {
+            "setting": "Starbound Legacy movie poster showcase",
+            "characters": [
+              "Kaelen Drax",
+              "Veyra Kael"
+            ],
+            "ambiance": "Celestial glow",
+            "shotDescription": "“Starbound Legacy” – Star Wars-inspired space opera",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "624bf5fa",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Space opera poster “Starbound Legacy.” Close-up of young hero Kaelen Drax holding glowing blade, stars reflected in eyes. Title in luminous serif font at bottom. Kaelen’s name aligned top, tagline: “The Stars Remember.” Billing block bottom. Celestial glow.",
+              "imageFile": "13-1-1-close-up-624bf5fa.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "eb6e90a1",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Starbound Legacy.” Kaelen Drax dueling villain Veyra Kael in galactic battle, starfleet in background. Title bottom-center in glowing serif, tagline across top: “Destiny Written in the Cosmos.” Kaelen and Veyra names aligned top, credits block bottom. Galactic palette.",
+              "imageFile": "13-1-2-widescreen-eb6e90a1.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 14,
+      "timing": {
+        "start": "01:05.000",
+        "end": "01:10.000",
+        "duration": 5000,
+        "startSeconds": 65,
+        "endSeconds": 70
+      },
+      "narrative": {
+        "text": "Turbo Fury. Engines scream. Dante Cruz, Maya Storm, Rico Valdez leap airborne in neon blaze.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Turbo Fury",
+        "defaultCharacters": [
+          "Dante Cruz"
+        ],
+        "defaultAmbiance": "Neon + chrome shine",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Turbo Fury\" (Fast & Furious action)",
+          "attributes": {
+            "setting": "Turbo Fury movie poster showcase",
+            "characters": [
+              "Dante Cruz"
+            ],
+            "ambiance": "Neon + chrome shine",
+            "shotDescription": "“Turbo Fury” – Fast & Furious action",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "86461ff8",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Action poster “Turbo Fury.” Close-up of driver Dante Cruz, sweat and neon reflections across his face. Title in metallic italic font at bottom. Dante’s name aligned top, tagline: “Speed Has No Limits.” Billing block bottom. Neon chrome tones.",
+              "imageFile": "14-1-1-close-up-86461ff8.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "bdac62a3",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Turbo Fury.” Dante Cruz leading his racing crew Maya Storm and Rico Valdez in explosive car jump mid-street race. Title large at bottom, tagline across top: “Ride or Burn Out.” Crew names aligned top, credits block bottom. High-octane neon glow.",
+              "imageFile": "14-1-2-widescreen-bdac62a3.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 15,
+      "timing": {
+        "start": "01:10.000",
+        "end": "01:15.000",
+        "duration": 5000,
+        "startSeconds": 70,
+        "endSeconds": 75
+      },
+      "narrative": {
+        "text": "Wonderville.Lumi Spark races with friends Pip, Zara, and Milo into a candy-bright square of banners and balloons. Marky letters twinkle, adventure begins here, magic for every family.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Wonderville",
+        "defaultCharacters": [
+          "Lumi Spark"
+        ],
+        "defaultAmbiance": "Bright, whimsical",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Wonderville\" (Disney/Pixar animated film)",
+          "attributes": {
+            "setting": "Wonderville movie poster showcase",
+            "characters": [
+              "Lumi Spark"
+            ],
+            "ambiance": "Bright, whimsical",
+            "shotDescription": "“Wonderville” – Disney/Pixar animated film",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "5f31fffa",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Animated family poster “Wonderville.” Close-up of cheerful character Lumi Spark, glowing eyes wide with wonder. Title in playful rounded font at bottom. Lumi’s name aligned top, tagline: “Every Day is Magic.” Billing block bottom. Bright whimsical palette.",
+              "imageFile": "15-1-1-close-up-5f31fffa.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "1c574011",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Wonderville.” Lumi Spark with friends Pip, Zara, Milo exploring colorful magical town. Title bold bottom-center, tagline across top: “Adventure Begins Here.” Names aligned top, credits block bottom. Disney-style vibrant palette.",
+              "imageFile": "15-1-2-widescreen-1c574011.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 16,
+      "timing": {
+        "start": "01:15.000",
+        "end": "01:20.000",
+        "duration": 5000,
+        "startSeconds": 75,
+        "endSeconds": 80
+      },
+      "narrative": {
+        "text": "Happy Chaos. DreamWorks whimsical.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Happy Chaos",
+        "defaultCharacters": [
+          "Benny Bumble"
+        ],
+        "defaultAmbiance": "Playful, colorful",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Happy Chaos\" (DreamWorks whimsical)",
+          "attributes": {
+            "setting": "Happy Chaos movie poster showcase",
+            "characters": [
+              "Benny Bumble"
+            ],
+            "ambiance": "Playful, colorful",
+            "shotDescription": "“Happy Chaos” – DreamWorks whimsical",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "4ff56ea1",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: DreamWorks-style poster “Happy Chaos.” Goofy expression close-up of character Benny Bumble, cartoony exaggeration. Title in fun bold sans-serif at bottom. Benny’s name aligned top, tagline: “Family is the Greatest Adventure.” Billing block bottom. Playful tones.",
+              "imageFile": "16-1-1-close-up-4ff56ea1.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "684c9932",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Happy Chaos.” Benny Bumble with family Lola, Timmy, Grandpa Gus in wild slapstick chase scene. Title bold bottom-center, tagline above: “One House, Endless Laughs.” Names aligned top, credits block bottom. Whimsical family palette.",
+              "imageFile": "16-1-2-widescreen-684c9932.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 17,
+      "timing": {
+        "start": "01:20.000",
+        "end": "01:25.000",
+        "duration": 5000,
+        "startSeconds": 80,
+        "endSeconds": 85
+      },
+      "narrative": {
+        "text": "License to Thrill. James Bond spy thriller.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for License to Thrill",
+        "defaultCharacters": [
+          "Julian Drake"
+        ],
+        "defaultAmbiance": "Sleek, classy",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"License to Thrill\" (James Bond spy thriller)",
+          "attributes": {
+            "setting": "License to Thrill movie poster showcase",
+            "characters": [
+              "Julian Drake"
+            ],
+            "ambiance": "Sleek, classy",
+            "shotDescription": "“License to Thrill” – James Bond spy thriller",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "9fba3b04",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Spy thriller poster “License to Thrill.” Close-up of suave agent Julian Drake in tuxedo, holding pistol, neon casino lights reflecting in eyes. Title in sleek serif font at bottom. Julian’s name aligned top, tagline: “The World is Not Enough.” Billing block bottom. Sleek stylish tones.",
+              "imageFile": "17-1-1-close-up-9fba3b04.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "b6a3c3e4",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “License to Thrill.” Julian Drake at casino table with femme fatale Selina Frost, sports car chase in background. Title bold bottom-center, tagline across top: “Every Bet is Life or Death.” Julian and Selina names top, credits block bottom. Spy-chic palette.",
+              "imageFile": "17-1-2-widescreen-b6a3c3e4.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 18,
+      "timing": {
+        "start": "01:25.000",
+        "end": "01:30.000",
+        "duration": 5000,
+        "startSeconds": 85,
+        "endSeconds": 90
+      },
+      "narrative": {
+        "text": "The Last Mark. John Wick minimalist.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for The Last Mark",
+        "defaultCharacters": [],
+        "defaultAmbiance": "Cold, neon noir",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"The Last Mark\" (John Wick minimalist)",
+          "attributes": {
+            "setting": "The Last Mark movie poster showcase",
+            "characters": [],
+            "ambiance": "Cold, neon noir",
+            "shotDescription": "“The Last Mark” – John Wick minimalist",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "1f25f6a3",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Assassin poster “The Last Mark.” Close-up of hitman Victor Kael, dark suit, eyes glowing under neon lights. Title in minimalist bold font at bottom. Victor’s name aligned top, tagline: “Every Bullet Tells a Story.” Billing block bottom. Cold noir palette.",
+              "imageFile": "18-1-1-close-up-1f25f6a3.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "1bb1bcb4",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “The Last Mark.” Victor Kael walking down neon-lit corridor, gun in hand, surrounded by fallen enemies. Title bold bottom-center, tagline across top: “No Past. No Future. Only the Mark.” Victor’s name aligned top, credits block bottom. Minimalist neon noir.",
+              "imageFile": "18-1-2-widescreen-1bb1bcb4.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 19,
+      "timing": {
+        "start": "01:30.000",
+        "end": "01:35.000",
+        "duration": 5000,
+        "startSeconds": 90,
+        "endSeconds": 95
+      },
+      "narrative": {
+        "text": "Shadow Protocol. Mission Impossible action.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Shadow Protocol",
+        "defaultCharacters": [
+          "Ethan Cross"
+        ],
+        "defaultAmbiance": "Slick, tense",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Shadow Protocol\" (Mission Impossible action)",
+          "attributes": {
+            "setting": "Shadow Protocol movie poster showcase",
+            "characters": [
+              "Ethan Cross"
+            ],
+            "ambiance": "Slick, tense",
+            "shotDescription": "“Shadow Protocol” – Mission Impossible action",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "fa0ebf0c",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Spy-action poster “Shadow Protocol.” Close-up of secret agent Ethan Cross, reflection of mission mask in his eyes. Title in bold italic sans-serif at bottom. Ethan’s name aligned top, tagline: “The Impossible is Just the Beginning.” Billing block bottom. Tense slick palette.",
+              "imageFile": "19-1-1-close-up-fa0ebf0c.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "53d48095",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Shadow Protocol.” Ethan Cross dangling from skyscraper, helicopter chase above. Title bold bottom-center, tagline across top: “Trust No One.” Ethan’s name aligned top, credits block bottom. Spy-thriller tones.",
+              "imageFile": "19-1-2-widescreen-53d48095.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 20,
+      "timing": {
+        "start": "01:35.000",
+        "end": "01:40.000",
+        "duration": 5000,
+        "startSeconds": 95,
+        "endSeconds": 100
+      },
+      "narrative": {
+        "text": "Lumina. A bioluminescent jungle glows alive. Naravera brushes glowing ferns, creatures weaving trails of light.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Lumina",
+        "defaultCharacters": [
+          "Orin Tal"
+        ],
+        "defaultAmbiance": "Glowing neon jungle",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Lumina\" (Avatar bioluminescent fantasy)",
+          "attributes": {
+            "setting": "Lumina movie poster showcase",
+            "characters": [
+              "Orin Tal"
+            ],
+            "ambiance": "Glowing neon jungle",
+            "shotDescription": "“Lumina” – Avatar bioluminescent fantasy",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "b88febdc",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Sci-fi fantasy poster “Lumina.” Close-up of alien-human hybrid Naara Veyra, glowing blue bioluminescent markings, eyes shining. Title in luminous futuristic serif at bottom. Naara’s name aligned top, tagline: “The Light Within Awakens.” Billing block bottom. Radiant neon glow.",
+              "imageFile": "20-1-1-close-up-b88febdc.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "b3be6929",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Lumina.” Naara Veyra exploring glowing jungle with creatures beside ally Orin Tal. Title bold bottom-center, tagline across top: “A World Beyond the Stars.” Naara and Orin names aligned top, credits block bottom. Bioluminescent sci-fi palette.",
+              "imageFile": "20-1-2-widescreen-b3be6929.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 21,
+      "timing": {
+        "start": "01:40.000",
+        "end": "01:45.000",
+        "duration": 5000,
+        "startSeconds": 100,
+        "endSeconds": 105
+      },
+      "narrative": {
+        "text": "Less is More. Minimalist flat design.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Less is More",
+        "defaultCharacters": [
+          "Amara Steele"
+        ],
+        "defaultAmbiance": "Clean, muted",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Less is More\" (Minimalist flat design)",
+          "attributes": {
+            "setting": "Less is More movie poster showcase",
+            "characters": [
+              "Amara Steele"
+            ],
+            "ambiance": "Clean, muted",
+            "shotDescription": "“Less is More” – Minimalist flat design",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "529da30d",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Minimalist poster “Less is More.” Close-up of heroine Amara Steele in profile silhouette, flat pastel background. Title in thin sans-serif font at bottom. Amara’s name aligned top, tagline: “Silence Speaks Louder.” Billing block bottom. Clean minimal palette.",
+              "imageFile": "21-1-1-close-up-529da30d.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "7905744e",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Less is More.” Amara Steele walking alone across vast empty desert, tiny figure in negative space. Title bold bottom-center, tagline above: “Every Step is a Story.” Amara’s name top aligned, credits block bottom. Minimal flat tones.",
+              "imageFile": "21-1-2-widescreen-7905744e.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 22,
+      "timing": {
+        "start": "01:45.000",
+        "end": "01:50.000",
+        "duration": 5000,
+        "startSeconds": 105,
+        "endSeconds": 110
+      },
+      "narrative": {
+        "text": "Eternal Mirage. Surrealist Dali-inspired.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Eternal Mirage",
+        "defaultCharacters": [],
+        "defaultAmbiance": "Dreamlike warm haze",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Eternal Mirage\" (Surrealist Dali-inspired)",
+          "attributes": {
+            "setting": "Eternal Mirage movie poster showcase",
+            "characters": [],
+            "ambiance": "Dreamlike warm haze",
+            "shotDescription": "“Eternal Mirage” – Surrealist Dali-inspired",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "c9df00c7",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Surrealist poster “Eternal Mirage.” Close-up of dreamer Lucien Vale, half of his face melting like wax into golden sand. Title in abstract serif font at bottom. Lucien’s name aligned top, tagline: “Dreams Never Die.” Billing block bottom. Surreal warm haze.",
+              "imageFile": "22-1-1-close-up-c9df00c7.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "e59ecfaf",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Eternal Mirage.” Lucien Vale wandering desert filled with giant melting clocks and distorted skies. Title bold bottom, tagline above: “Where Reality Ends, Dreams Begin.” Lucien’s name aligned top, credits block bottom. Dali-inspired surreal palette.",
+              "imageFile": "22-1-2-widescreen-e59ecfaf.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 23,
+      "timing": {
+        "start": "01:50.000",
+        "end": "01:55.000",
+        "duration": 5000,
+        "startSeconds": 110,
+        "endSeconds": 115
+      },
+      "narrative": {
+        "text": "Through the Veil. Double exposure artistic.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Through the Veil",
+        "defaultCharacters": [
+          "Selene Ardent"
+        ],
+        "defaultAmbiance": "Ethereal layering",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Through the Veil\" (Double exposure artistic)",
+          "attributes": {
+            "setting": "Through the Veil movie poster showcase",
+            "characters": [
+              "Selene Ardent"
+            ],
+            "ambiance": "Ethereal layering",
+            "shotDescription": "“Through the Veil” – Double exposure artistic",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "90b17c53",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Artistic poster “Through the Veil.” Double exposure close-up of actress Selene Ardent, her face overlaid with forest trees. Title in modern serif font at bottom. Selene’s name aligned top, tagline: “Every Soul Holds Two Worlds.” Billing block bottom. Ethereal tones.",
+              "imageFile": "23-1-1-close-up-90b17c53.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "1af26491",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Through the Veil.” Selene Ardent standing in city skyline dissolving into forest landscape. Title bold bottom, tagline across top: “Nature and Memory Collide.” Selene’s name aligned top, credits block bottom. Dreamlike layered palette.",
+              "imageFile": "23-1-2-widescreen-1af26491.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 24,
+      "timing": {
+        "start": "01:55.000",
+        "end": "02:00.000",
+        "duration": 5000,
+        "startSeconds": 115,
+        "endSeconds": 120
+      },
+      "narrative": {
+        "text": "Lost in Signal. Vaporwave cyber aesthetic.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Lost in Signal",
+        "defaultCharacters": [],
+        "defaultAmbiance": "Neon pink-blue haze",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Lost in Signal\" (Vaporwave cyber aesthetic)",
+          "attributes": {
+            "setting": "Lost in Signal movie poster showcase",
+            "characters": [],
+            "ambiance": "Neon pink-blue haze",
+            "shotDescription": "“Lost in Signal” – Vaporwave cyber aesthetic",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "85d1953c",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Vaporwave poster “Lost in Signal.” Close-up of youth Kieran Flux bathed in neon pink-blue CRT glow, glitch effects on face. Title in retro grid font at bottom. Kieran’s name aligned top, tagline: “The Future is a Broken Signal.” Billing block bottom. Vaporwave tones.",
+              "imageFile": "24-1-1-close-up-85d1953c.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "97c3d129",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Lost in Signal.” Kieran Flux in neon-lit cyber city, VHS glitches warping skyscrapers. Title bold bottom-center, tagline above: “Reality Distorts.” Kieran’s name aligned top, credits block bottom. Cyber-vaporwave palette.",
+              "imageFile": "24-1-2-widescreen-97c3d129.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 25,
+      "timing": {
+        "start": "02:00.000",
+        "end": "02:05.000",
+        "duration": 5000,
+        "startSeconds": 120,
+        "endSeconds": 125
+      },
+      "narrative": {
+        "text": "Broken Code. Glitch art digital horror.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Broken Code",
+        "defaultCharacters": [],
+        "defaultAmbiance": "Distorted static",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Broken Code\" (Glitch art digital horror)",
+          "attributes": {
+            "setting": "Broken Code movie poster showcase",
+            "characters": [],
+            "ambiance": "Distorted static",
+            "shotDescription": "“Broken Code” – Glitch art digital horror",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "4e96e8c0",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Horror poster “Broken Code.” Distorted close-up of Maya Crowe, face glitching with static and pixel tears. Title in cracked digital font at bottom. Maya’s name aligned top, tagline: “The Signal is Death.” Billing block bottom. Distorted digital horror tones.",
+              "imageFile": "25-1-1-close-up-4e96e8c0.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "fd5078fd",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Broken Code.” Maya Crowe in haunted glitching room, screens flickering with ghostly faces. Title bold bottom, tagline above: “Every Error Has a Price.” Maya’s name aligned top, credits block bottom. Glitch horror palette.",
+              "imageFile": "25-1-2-widescreen-fd5078fd.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 26,
+      "timing": {
+        "start": "02:05.000",
+        "end": "02:10.000",
+        "duration": 5000,
+        "startSeconds": 125,
+        "endSeconds": 130
+      },
+      "narrative": {
+        "text": "Fragmented Realities. Abstract geometric.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Fragmented Realities",
+        "defaultCharacters": [],
+        "defaultAmbiance": "Bold, colorful",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Fragmented Realities\" (Abstract geometric)",
+          "attributes": {
+            "setting": "Fragmented Realities movie poster showcase",
+            "characters": [],
+            "ambiance": "Bold, colorful",
+            "shotDescription": "“Fragmented Realities” – Abstract geometric",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "d3700c96",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Abstract poster “Fragmented Realities.” Close-up of Niko Veyran, face split into angular geometric shards, bold color contrasts. Title in sharp modern font at bottom. Niko’s name aligned top, tagline: “Shattered Worlds Collide.” Billing block bottom. Abstract tones.",
+              "imageFile": "26-1-1-close-up-d3700c96.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "3f9ecf2a",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Fragmented Realities.” Niko Veyran standing among colossal floating geometric shapes, fractured sky. Title bold bottom-center, tagline across top: “Chaos Takes Form.” Niko’s name aligned top, credits block bottom. Geometric abstract palette.",
+              "imageFile": "26-1-2-widescreen-3f9ecf2a.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 27,
+      "timing": {
+        "start": "02:10.000",
+        "end": "02:15.000",
+        "duration": 5000,
+        "startSeconds": 130,
+        "endSeconds": 135
+      },
+      "narrative": {
+        "text": "Lightform. Hologram sci-fi poster.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Lightform",
+        "defaultCharacters": [],
+        "defaultAmbiance": "Futuristic glow",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Lightform\" (Hologram sci-fi poster)",
+          "attributes": {
+            "setting": "Lightform movie poster showcase",
+            "characters": [],
+            "ambiance": "Futuristic glow",
+            "shotDescription": "“Lightform” – Hologram sci-fi poster",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "8499fef4",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Futuristic poster “Lightform.” Close-up of Auriel Kaine, holographic face shimmering with light beams. Title in glowing digital font at bottom. Auriel’s name aligned top, tagline: “The Future is a Projection.” Billing block bottom. Hologram tones.",
+              "imageFile": "27-1-1-close-up-8499fef4.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "c2d3fc14",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Lightform.” Auriel Kaine walking through hologram cityscape, buildings flickering with shifting light. Title bold bottom, tagline above: “When Reality is Light.” Auriel’s name aligned top, credits block bottom. Futuristic glow.",
+              "imageFile": "27-1-2-widescreen-c2d3fc14.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 28,
+      "timing": {
+        "start": "02:15.000",
+        "end": "02:20.000",
+        "duration": 5000,
+        "startSeconds": 135,
+        "endSeconds": 140
+      },
+      "narrative": {
+        "text": "Wall of Voices. Graffiti street art poster.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Wall of Voices",
+        "defaultCharacters": [
+          "Diego Cruz"
+        ],
+        "defaultAmbiance": "Urban neon & paint spray",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Wall of Voices\" (Graffiti street art poster)",
+          "attributes": {
+            "setting": "Wall of Voices movie poster showcase",
+            "characters": [
+              "Diego Cruz"
+            ],
+            "ambiance": "Urban neon & paint spray",
+            "shotDescription": "“Wall of Voices” – Graffiti street art poster",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "eb0486d4",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Graffiti poster “Wall of Voices.” Close-up of street rebel Diego Cruz, spray can in hand, neon paint dripping on his face. Title in graffiti-style font at bottom. Diego’s name aligned top, tagline: “Every Wall Speaks.” Billing block bottom. Urban neon palette.",
+              "imageFile": "28-1-1-close-up-eb0486d4.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "ce37ee7e",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Wall of Voices.” Diego Cruz painting massive mural alongside Rosa Vega, street lit in neon haze. Title bold bottom-center, tagline across top: “The Streets Remember.” Diego and Rosa names aligned top, credits block bottom. Graffiti tones.",
+              "imageFile": "28-1-2-widescreen-ce37ee7e.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 29,
+      "timing": {
+        "start": "02:20.000",
+        "end": "02:25.000",
+        "duration": 5000,
+        "startSeconds": 140,
+        "endSeconds": 145
+      },
+      "narrative": {
+        "text": "Eternal Wave. Japanese Ukiyo-e style.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Eternal Wave",
+        "defaultCharacters": [
+          "Kenji Arata"
+        ],
+        "defaultAmbiance": "Brush ink textures",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Eternal Wave\" (Japanese Ukiyo-e style)",
+          "attributes": {
+            "setting": "Eternal Wave movie poster showcase",
+            "characters": [
+              "Kenji Arata"
+            ],
+            "ambiance": "Brush ink textures",
+            "shotDescription": "“Eternal Wave” – Japanese Ukiyo-e style",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "04720c46",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Ukiyo-e style poster “Eternal Wave.” Painted close-up of samurai Kenji Arata with katana, brushstroke textures. Title in calligraphic style at bottom. Kenji’s name aligned top, tagline: “Honor Flows Like Water.” Billing block bottom. Ink-wave palette.",
+              "imageFile": "29-1-1-close-up-04720c46.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "94fcc902",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Eternal Wave.” Kenji Arata battling foes in painted storm waves, ukiyo-e style composition. Title bold bottom-center, tagline across top: “The Sea Remembers the Warrior.” Kenji’s name aligned top, credits block bottom. Traditional Japanese palette.",
+              "imageFile": "29-1-2-widescreen-94fcc902.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 30,
+      "timing": {
+        "start": "02:25.000",
+        "end": "02:30.000",
+        "duration": 5000,
+        "startSeconds": 145,
+        "endSeconds": 150
+      },
+      "narrative": {
+        "text": "Clockwork Empire. Steampunk retro-futuristic.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Clockwork Empire",
+        "defaultCharacters": [
+          "Alaric Dross",
+          "Clara Hensley"
+        ],
+        "defaultAmbiance": "Golden brass & smoke",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Clockwork Empire\" (Steampunk retro-futuristic)",
+          "attributes": {
+            "setting": "Clockwork Empire movie poster showcase",
+            "characters": [
+              "Alaric Dross",
+              "Clara Hensley"
+            ],
+            "ambiance": "Golden brass & smoke",
+            "shotDescription": "“Clockwork Empire” – Steampunk retro-futuristic",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "8bf03718",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Steampunk poster “Clockwork Empire.” Close-up of inventor Alaric Dross, goggles reflecting gears and steam. Title in brass-industrial font at bottom. Alaric’s name aligned top, tagline: “Every Gear Holds Power.” Billing block bottom. Brass & smoke palette.",
+              "imageFile": "30-1-1-close-up-8bf03718.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "a4e060e0",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Clockwork Empire.” Alaric Dross and ally Clara Hensley standing in vast Victorian steampunk city, gears and airships above. Title bold bottom-center, tagline across top: “A Machine to Rule Them All.” Names aligned top, credits block bottom. Steampunk tones.",
+              "imageFile": "30-1-2-widescreen-a4e060e0.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 31,
+      "timing": {
+        "start": "02:30.000",
+        "end": "02:35.000",
+        "duration": 5000,
+        "startSeconds": 150,
+        "endSeconds": 155
+      },
+      "narrative": {
+        "text": "Celestial Hearts. Japanese anime-style poster.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Celestial Hearts",
+        "defaultCharacters": [
+          "Aiko Hanari"
+        ],
+        "defaultAmbiance": "Vibrant, dynamic",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Celestial Hearts\" (Japanese anime-style poster)",
+          "attributes": {
+            "setting": "Celestial Hearts movie poster showcase",
+            "characters": [
+              "Aiko Hanari"
+            ],
+            "ambiance": "Vibrant, dynamic",
+            "shotDescription": "“Celestial Hearts” – Japanese anime-style poster",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "fafda763",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Anime-style poster “Celestial Hearts.” Close-up of heroine Aiko Hanari, glowing eyes filled with determination, dynamic anime linework. Title in bold stylized kanji-inspired font at bottom. Aiko’s name aligned top, tagline: “Our Spirits Will Rise.” Billing block bottom. Vibrant anime palette.",
+              "imageFile": "31-1-1-close-up-fafda763.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "615fee58",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Celestial Hearts.” Aiko Hanari flying across sky with comrades Ryu Takeda and Mei Sora, glowing powers clashing with enemies. Title bottom-center in anime font, tagline across top: “A Battle Written in the Stars.” Names aligned top, credits block bottom. Epic anime palette.",
+              "imageFile": "31-1-2-widescreen-615fee58.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 32,
+      "timing": {
+        "start": "02:35.000",
+        "end": "02:40.000",
+        "duration": 5000,
+        "startSeconds": 155,
+        "endSeconds": 160
+      },
+      "narrative": {
+        "text": "Winter Sonata. Korean K-drama style.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Winter Sonata",
+        "defaultCharacters": [],
+        "defaultAmbiance": "Soft pastel & lens glow",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Winter Sonata\" (Korean K-drama style)",
+          "attributes": {
+            "setting": "Winter Sonata movie poster showcase",
+            "characters": [],
+            "ambiance": "Soft pastel & lens glow",
+            "shotDescription": "“Winter Sonata” – Korean K-drama style",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "691862b7",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: K-drama poster “Winter Sonata.” Close-up of actress Ji-eun Park, snowflakes on her face, soft lens glow. Title in elegant cursive at bottom. Ji-eun’s name aligned top, tagline: “Love in Every Snowfall.” Billing block bottom. Romantic winter palette.",
+              "imageFile": "32-1-1-close-up-691862b7.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "d08cb78f",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Winter Sonata.” Ji-eun Park and Min-ho Choi walking hand-in-hand under snowy city lights. Title bottom-center, tagline across top: “Two Hearts, One Winter.” Ji-eun and Min-ho names aligned top, credits block bottom. Soft pastel tones.",
+              "imageFile": "32-1-2-widescreen-d08cb78f.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 33,
+      "timing": {
+        "start": "02:40.000",
+        "end": "02:45.000",
+        "duration": 5000,
+        "startSeconds": 160,
+        "endSeconds": 165
+      },
+      "narrative": {
+        "text": "Breathless Nights. French New Wave minimalist.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Breathless Nights",
+        "defaultCharacters": [],
+        "defaultAmbiance": "Low-contrast B&W",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Breathless Nights\" (French New Wave minimalist)",
+          "attributes": {
+            "setting": "Breathless Nights movie poster showcase",
+            "characters": [],
+            "ambiance": "Low-contrast B&W",
+            "shotDescription": "“Breathless Nights” – French New Wave minimalist",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "c7dcea26",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: French New Wave poster “Breathless Nights.” Close-up of Camille Laurent, cigarette smoke curling, soft monochrome. Title in minimalist sans-serif font at bottom. Camille’s name aligned top, tagline: “Paris After Midnight.” Billing block bottom. Black-and-white palette.",
+              "imageFile": "33-1-1-close-up-c7dcea26.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "7a0024a4",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Breathless Nights.” Camille Laurent with lover Jean-Claude Marais on quiet Paris street corner, dim streetlight glow. Title bottom-center, tagline across top: “Every Breath Holds a Secret.” Camille and Jean-Claude names aligned top, credits block bottom. Monochrome tones.",
+              "imageFile": "33-1-2-widescreen-7a0024a4.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 34,
+      "timing": {
+        "start": "02:45.000",
+        "end": "02:50.000",
+        "duration": 5000,
+        "startSeconds": 165,
+        "endSeconds": 170
+      },
+      "narrative": {
+        "text": "Cabinet of Shadows. German Expressionist.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Cabinet of Shadows",
+        "defaultCharacters": [
+          "Erich Nacht"
+        ],
+        "defaultAmbiance": "Harsh angular shadows",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Cabinet of Shadows\" (German Expressionist)",
+          "attributes": {
+            "setting": "Cabinet of Shadows movie poster showcase",
+            "characters": [
+              "Erich Nacht"
+            ],
+            "ambiance": "Harsh angular shadows",
+            "shotDescription": "“Cabinet of Shadows” – German Expressionist",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "8a8440be",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: German Expressionist poster “Cabinet of Shadows.” Close-up of villain Erich Nacht, angular shadows on his sharp features. Title in jagged gothic font at bottom. Erich’s name aligned top, tagline: “Fear Lives in Angles.” Billing block bottom. Stark black-and-white palette.",
+              "imageFile": "34-1-1-close-up-8a8440be.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "703a7cac",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Cabinet of Shadows.” Erich Nacht looming over jagged skyline, distorted buildings in stark contrast. Title bottom-center, tagline across top: “The City Knows No Light.” Erich’s name aligned top, credits block bottom. Expressionist angular palette.",
+              "imageFile": "34-1-2-widescreen-703a7cac.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 35,
+      "timing": {
+        "start": "02:50.000",
+        "end": "02:55.000",
+        "duration": 5000,
+        "startSeconds": 170,
+        "endSeconds": 175
+      },
+      "narrative": {
+        "text": "Whispered Scream. Italian Giallo thriller.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Whispered Scream",
+        "defaultCharacters": [],
+        "defaultAmbiance": "Red-yellow tension",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Whispered Scream\" (Italian Giallo thriller)",
+          "attributes": {
+            "setting": "Whispered Scream movie poster showcase",
+            "characters": [],
+            "ambiance": "Red-yellow tension",
+            "shotDescription": "“Whispered Scream” – Italian Giallo thriller",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "fa8a0997",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Giallo horror poster “Whispered Scream.” Close-up of masked killer Alessandro Nero, knife gleaming with blood reflection. Title in cracked serif font at bottom. Alessandro’s name aligned top, tagline: “Every Secret Cuts Deep.” Billing block bottom. Red-yellow palette.",
+              "imageFile": "35-1-1-close-up-fa8a0997.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "a6032c9f",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Whispered Scream.” Alessandro Nero stalking victim Lucia Moretti in dim crime scene, yellow streetlight glow. Title bottom-center, tagline across top: “Murder Speaks Louder Than Words.” Alessandro and Lucia names aligned top, credits block bottom. Giallo horror tones.",
+              "imageFile": "35-1-2-widescreen-a6032c9f.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 36,
+      "timing": {
+        "start": "02:55.000",
+        "end": "03:00.000",
+        "duration": 5000,
+        "startSeconds": 175,
+        "endSeconds": 180
+      },
+      "narrative": {
+        "text": "Dragon Fire. Hong Kong action poster.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Dragon Fire",
+        "defaultCharacters": [
+          "Kai Wong",
+          "Mei Lin"
+        ],
+        "defaultAmbiance": "High-contrast urban neon",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Dragon Fire\" (Hong Kong action poster)",
+          "attributes": {
+            "setting": "Dragon Fire movie poster showcase",
+            "characters": [
+              "Kai Wong",
+              "Mei Lin"
+            ],
+            "ambiance": "High-contrast urban neon",
+            "shotDescription": "“Dragon Fire” – Hong Kong action poster",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "dc4c0184",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Hong Kong action poster “Dragon Fire.” Close-up of martial cop Kai Wong, mid-punch, sweat flying. Title in bold angular font at bottom. Kai’s name aligned top, tagline: “Honor Burns Bright.” Billing block bottom. Neon urban palette.",
+              "imageFile": "36-1-1-close-up-dc4c0184.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "f803ac37",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Dragon Fire.” Kai Wong fighting criminals on rooftop with ally Mei Lin, neon skyline behind. Title bold bottom-center, tagline across top: “Justice in Every Strike.” Kai and Mei names aligned top, credits block bottom. Hong Kong neon palette.",
+              "imageFile": "36-1-2-widescreen-f803ac37.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 37,
+      "timing": {
+        "start": "03:00.000",
+        "end": "03:05.000",
+        "duration": 5000,
+        "startSeconds": 180,
+        "endSeconds": 185
+      },
+      "narrative": {
+        "text": "Red Dawn. Soviet constructivist propaganda.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Red Dawn",
+        "defaultCharacters": [
+          "Anya Volkov"
+        ],
+        "defaultAmbiance": "Bold graphic reds",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Red Dawn\" (Soviet constructivist propaganda)",
+          "attributes": {
+            "setting": "Red Dawn movie poster showcase",
+            "characters": [
+              "Anya Volkov"
+            ],
+            "ambiance": "Bold graphic reds",
+            "shotDescription": "“Red Dawn” – Soviet constructivist propaganda",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "3f30ecb5",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Soviet constructivist poster “Red Dawn.” Close-up of worker hero Anya Volkov, face framed by bold red geometric rays. Title in blocky sans-serif at bottom. Anya’s name aligned top, tagline: “The People Rise.” Billing block bottom. Red-black palette.",
+              "imageFile": "37-1-1-close-up-3f30ecb5.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "d8f14092",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Red Dawn.” Anya Volkov leading mass of workers, angular constructivist lines and banners. Title bottom-center, tagline across top: “Strength in Unity.” Anya’s name aligned top, credits block bottom. Propaganda-style palette.",
+              "imageFile": "37-1-2-widescreen-d8f14092.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 38,
+      "timing": {
+        "start": "03:05.000",
+        "end": "03:10.000",
+        "duration": 5000,
+        "startSeconds": 185,
+        "endSeconds": 190
+      },
+      "narrative": {
+        "text": "Viva la Vida. Mexican Día de los Muertos.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Viva la Vida",
+        "defaultCharacters": [],
+        "defaultAmbiance": "Vibrant skull art",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Viva la Vida\" (Mexican Día de los Muertos)",
+          "attributes": {
+            "setting": "Viva la Vida movie poster showcase",
+            "characters": [],
+            "ambiance": "Vibrant skull art",
+            "shotDescription": "“Viva la Vida” – Mexican Día de los Muertos",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "c65910c6",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Día de los Muertos poster “Viva la Vida.” Close-up of celebrant Isabela Cruz, face painted in vibrant skull design. Title in ornate festival font at bottom. Isabela’s name aligned top, tagline: “Every Spirit Lives On.” Billing block bottom. Colorful festival palette.",
+              "imageFile": "38-1-1-close-up-c65910c6.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "2ed6c63f",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Viva la Vida.” Isabela Cruz leading parade of skeleton dancers, marigold petals filling the street. Title bold bottom-center, tagline across top: “Life is the Celebration.” Isabela’s name aligned top, credits block bottom. Vibrant Mexican palette.",
+              "imageFile": "38-1-2-widescreen-2ed6c63f.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 39,
+      "timing": {
+        "start": "03:10.000",
+        "end": "03:15.000",
+        "duration": 5000,
+        "startSeconds": 190,
+        "endSeconds": 195
+      },
+      "narrative": {
+        "text": "Echoes of the Ancients. African tribal art.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Echoes of the Ancients",
+        "defaultCharacters": [
+          "Nia Kamanzi"
+        ],
+        "defaultAmbiance": "Earthy tones, symbolic",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Echoes of the Ancients\" (African tribal art)",
+          "attributes": {
+            "setting": "Echoes of the Ancients movie poster showcase",
+            "characters": [
+              "Nia Kamanzi"
+            ],
+            "ambiance": "Earthy tones, symbolic",
+            "shotDescription": "“Echoes of the Ancients” – African tribal art",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "918af84e",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: African tribal art poster “Echoes of the Ancients.” Close-up of warrior Nia Kamanzi, face painted with tribal patterns, earthy tones. Title in carved-texture font at bottom. Nia’s name aligned top, tagline: “The Ancestors Speak.” Billing block bottom. Tribal palette.",
+              "imageFile": "39-1-1-close-up-918af84e.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "b23498fd",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Echoes of the Ancients.” Nia Kamanzi leading tribal ceremony, fire circle, masks glowing. Title bold bottom-center, tagline across top: “A Legacy Written in Fire.” Nia’s name aligned top, credits block bottom. African tribal palette.",
+              "imageFile": "39-1-2-widescreen-b23498fd.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 40,
+      "timing": {
+        "start": "03:15.000",
+        "end": "03:20.000",
+        "duration": 5000,
+        "startSeconds": 195,
+        "endSeconds": 200
+      },
+      "narrative": {
+        "text": "Desert Call. Middle Eastern calligraphy.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Desert Call",
+        "defaultCharacters": [
+          "Amir Khalid",
+          "Layla Noor"
+        ],
+        "defaultAmbiance": "Golden desert light",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Desert Call\" (Middle Eastern calligraphy)",
+          "attributes": {
+            "setting": "Desert Call movie poster showcase",
+            "characters": [
+              "Amir Khalid",
+              "Layla Noor"
+            ],
+            "ambiance": "Golden desert light",
+            "shotDescription": "“Desert Call” – Middle Eastern calligraphy",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "365c5edf",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Middle Eastern poster “Desert Call.” Close-up of wanderer Amir Khalid, face framed with Arabic calligraphy, desert glow. Title in flowing calligraphic font at bottom. Amir’s name aligned top, tagline: “The Sands Remember.” Billing block bottom. Golden desert palette.",
+              "imageFile": "40-1-1-close-up-365c5edf.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "49b71d4f",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Desert Call.” Amir Khalid crossing dunes with ally Layla Noor, calligraphic patterns flowing in the sky. Title bold bottom-center, tagline across top: “Every Step Echoes Forever.” Amir and Layla names aligned top, credits block bottom. Middle Eastern tones.",
+              "imageFile": "40-1-2-widescreen-49b71d4f.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 41,
+      "timing": {
+        "start": "03:20.000",
+        "end": "03:25.000",
+        "duration": 5000,
+        "startSeconds": 200,
+        "endSeconds": 205
+      },
+      "narrative": {
+        "text": "Crown of Fire. Knights clash as dragons circle a burning sky. A crown glows in flame.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Crown of Fire",
+        "defaultCharacters": [
+          "Sir Alarion Vale"
+        ],
+        "defaultAmbiance": "Mystical glow",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Crown of Fire\" (Fantasy epic)",
+          "attributes": {
+            "setting": "Crown of Fire movie poster showcase",
+            "characters": [
+              "Sir Alarion Vale"
+            ],
+            "ambiance": "Mystical glow",
+            "shotDescription": "“Crown of Fire” – Fantasy epic",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "c4ea04b3",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Fantasy poster “Crown of Fire.” Close-up of knight Sir Alarion Vale, armored face glowing with dragonfire reflection. Title in ornate fantasy serif at bottom. Alarion’s name aligned top, tagline: “A Kingdom Burns for Honor.” Billing block bottom. Epic mystical glow.",
+              "imageFile": "41-1-1-close-up-c4ea04b3.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "dfe7a48e",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Crown of Fire.” Sir Alarion Vale leading charge against dragon over castle walls, banners aflame. Title bold bottom-center, tagline across top: “Where Fire Meets Steel.” Alarion’s name aligned top, credits block bottom. Grand fantasy palette.",
+              "imageFile": "41-1-2-widescreen-dfe7a48e.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 42,
+      "timing": {
+        "start": "03:25.000",
+        "end": "03:30.000",
+        "duration": 5000,
+        "startSeconds": 205,
+        "endSeconds": 210
+      },
+      "narrative": {
+        "text": "Neon Wasteland. Sci-fi dystopian.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Neon Wasteland",
+        "defaultCharacters": [
+          "Nova Stroud"
+        ],
+        "defaultAmbiance": "Cold neon & fog",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Neon Wasteland\" (Sci-fi dystopian)",
+          "attributes": {
+            "setting": "Neon Wasteland movie poster showcase",
+            "characters": [
+              "Nova Stroud"
+            ],
+            "ambiance": "Cold neon & fog",
+            "shotDescription": "“Neon Wasteland” – Sci-fi dystopian",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "accd3c9c",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Sci-fi dystopia poster “Neon Wasteland.” Close-up of rebel Nova Stroud, masked face under neon haze. Title in digital glitch font at bottom. Nova’s name aligned top, tagline: “Survival is Resistance.” Billing block bottom. Cold neon tones.",
+              "imageFile": "42-1-1-close-up-accd3c9c.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "feed0587",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Neon Wasteland.” Nova Stroud leading squad across ruined cityscape, neon billboards flickering overhead. Title bottom-center, tagline across top: “The Future is Broken.” Nova’s name aligned top, credits block bottom. Dystopian palette.",
+              "imageFile": "42-1-2-widescreen-feed0587.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 43,
+      "timing": {
+        "start": "03:30.000",
+        "end": "03:35.000",
+        "duration": 5000,
+        "startSeconds": 210,
+        "endSeconds": 215
+      },
+      "narrative": {
+        "text": "Blood Reel. 80s VHS horror slasher.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Blood Reel",
+        "defaultCharacters": [],
+        "defaultAmbiance": "Grainy neon glow",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Blood Reel\" (80s VHS horror slasher)",
+          "attributes": {
+            "setting": "Blood Reel movie poster showcase",
+            "characters": [],
+            "ambiance": "Grainy neon glow",
+            "shotDescription": "“Blood Reel” – 80s VHS horror slasher",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "5633f42a",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Horror VHS poster “Blood Reel.” Close-up of masked slasher Ethan Graves, neon fuzz VHS distortion across mask. Title in scratched horror font at bottom. Ethan’s name aligned top, tagline: “Recorded in Fear.” Billing block bottom. VHS grain palette.",
+              "imageFile": "43-1-1-close-up-5633f42a.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "0da2fd51",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Blood Reel.” Ethan Graves stalking teens outside cabin, VHS static lines overlay scene. Title bold bottom, tagline across top: “Once You Watch, You Die.” Ethan’s name aligned top, credits block bottom. Retro VHS horror tones.",
+              "imageFile": "43-1-2-widescreen-0da2fd51.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 44,
+      "timing": {
+        "start": "03:35.000",
+        "end": "03:40.000",
+        "duration": 5000,
+        "startSeconds": 215,
+        "endSeconds": 220
+      },
+      "narrative": {
+        "text": "Crimson Eternity. Gothic vampire thriller.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Crimson Eternity",
+        "defaultCharacters": [
+          "Lucius Draven"
+        ],
+        "defaultAmbiance": "Candlelit gothic glow",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Crimson Eternity\" (Gothic vampire thriller)",
+          "attributes": {
+            "setting": "Crimson Eternity movie poster showcase",
+            "characters": [
+              "Lucius Draven"
+            ],
+            "ambiance": "Candlelit gothic glow",
+            "shotDescription": "“Crimson Eternity” – Gothic vampire thriller",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "b0331bf8",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Gothic vampire poster “Crimson Eternity.” Close-up of vampire lord Lucius Draven, blood on fangs, candlelight glow. Title in gothic serif font at bottom. Lucius’s name aligned top, tagline: “Forever is the Hunger.” Billing block bottom. Gothic candlelit palette.",
+              "imageFile": "44-1-1-close-up-b0331bf8.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "080456ff",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Crimson Eternity.” Lucius Draven standing in shadowy castle hall with vampire brides, stained glass lit in crimson. Title bold bottom-center, tagline across top: “Blood is Forever.” Lucius’s name aligned top, credits block bottom. Gothic tones.",
+              "imageFile": "44-1-2-widescreen-080456ff.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 45,
+      "timing": {
+        "start": "03:40.000",
+        "end": "03:45.000",
+        "duration": 5000,
+        "startSeconds": 220,
+        "endSeconds": 225
+      },
+      "narrative": {
+        "text": "Last Dawn. Zombie apocalypse.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Last Dawn",
+        "defaultCharacters": [
+          "Mara Keene",
+          "Darius Holt"
+        ],
+        "defaultAmbiance": "Gritty, decayed",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Last Dawn\" (Zombie apocalypse)",
+          "attributes": {
+            "setting": "Last Dawn movie poster showcase",
+            "characters": [
+              "Mara Keene",
+              "Darius Holt"
+            ],
+            "ambiance": "Gritty, decayed",
+            "shotDescription": "“Last Dawn” – Zombie apocalypse",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "54a2418b",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Zombie survival poster “Last Dawn.” Close-up of survivor Mara Keene, bloodied face, eyes filled with determination. Title in cracked serif font at bottom. Mara’s name aligned top, tagline: “The End is Just Beginning.” Billing block bottom. Gritty horror tones.",
+              "imageFile": "45-1-1-close-up-54a2418b.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "c7bcccf5",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Last Dawn.” Mara Keene fighting back zombies with ally Darius Holt in ruined city streets. Title bold bottom-center, tagline across top: “Survive the Night.” Mara and Darius names aligned top, credits block bottom. Decayed apocalypse palette.",
+              "imageFile": "45-1-2-widescreen-c7bcccf5.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 46,
+      "timing": {
+        "start": "03:45.000",
+        "end": "03:50.000",
+        "duration": 5000,
+        "startSeconds": 225,
+        "endSeconds": 230
+      },
+      "narrative": {
+        "text": "They Came From Above. Alien invasion.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for They Came From Above",
+        "defaultCharacters": [],
+        "defaultAmbiance": "Electric sky glow",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"They Came From Above\" (Alien invasion)",
+          "attributes": {
+            "setting": "They Came From Above movie poster showcase",
+            "characters": [],
+            "ambiance": "Electric sky glow",
+            "shotDescription": "“They Came From Above” – Alien invasion",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "bbb55482",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Alien invasion poster “They Came From Above.” Close-up of soldier Colton Drake, terrified eyes reflecting UFO light. Title in metallic sci-fi font at bottom. Colton’s name aligned top, tagline: “The Sky Falls Tonight.” Billing block bottom. Electric sky tones.",
+              "imageFile": "46-1-1-close-up-bbb55482.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "1b8d5a0f",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “They Came From Above.” Colton Drake leading squad against descending alien ships in battlefield chaos. Title bold bottom-center, tagline across top: “Humanity’s Last Stand.” Colton’s name aligned top, credits block bottom. Sci-fi war palette.",
+              "imageFile": "46-1-2-widescreen-1b8d5a0f.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 47,
+      "timing": {
+        "start": "03:50.000",
+        "end": "03:55.000",
+        "duration": 5000,
+        "startSeconds": 230,
+        "endSeconds": 235
+      },
+      "narrative": {
+        "text": "Fading Light. Romance drama glow.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Fading Light",
+        "defaultCharacters": [
+          "Elena Maris"
+        ],
+        "defaultAmbiance": "Warm sunset tones",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Fading Light\" (Romance drama glow)",
+          "attributes": {
+            "setting": "Fading Light movie poster showcase",
+            "characters": [
+              "Elena Maris"
+            ],
+            "ambiance": "Warm sunset tones",
+            "shotDescription": "“Fading Light” – Romance drama glow",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "aea9ca3a",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Romance poster “Fading Light.” Close-up of actress Elena Maris, tear on cheek, glowing sunset behind her. Title in elegant cursive at bottom. Elena’s name aligned top, tagline: “Love Never Fades.” Billing block bottom. Warm sunset tones.",
+              "imageFile": "47-1-1-close-up-aea9ca3a.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "7c07937a",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Fading Light.” Elena Maris embracing Julian Crowe against glowing horizon. Title bold bottom-center, tagline above: “Two Souls, One Sunset.” Elena and Julian names aligned top, credits block bottom. Romantic golden palette.",
+              "imageFile": "47-1-2-widescreen-7c07937a.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 48,
+      "timing": {
+        "start": "03:55.000",
+        "end": "04:00.000",
+        "duration": 5000,
+        "startSeconds": 235,
+        "endSeconds": 240
+      },
+      "narrative": {
+        "text": "Iron Valor. War epic historical drama.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Iron Valor",
+        "defaultCharacters": [],
+        "defaultAmbiance": "Epic smoky tones",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Iron Valor\" (War epic historical drama)",
+          "attributes": {
+            "setting": "Iron Valor movie poster showcase",
+            "characters": [],
+            "ambiance": "Epic smoky tones",
+            "shotDescription": "“Iron Valor” – War epic historical drama",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "1d55a03a",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: War epic poster “Iron Valor.” Close-up of general Magnus Kane, scarred face, dirt-streaked armor. Title in bold serif military font at bottom. Magnus’s name aligned top, tagline: “Honor Written in Blood.” Billing block bottom. Smoky war tones.",
+              "imageFile": "48-1-1-close-up-1d55a03a.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "2950cff1",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Iron Valor.” Magnus Kane leading cavalry charge in battlefield, fire and smoke rising. Title bold bottom-center, tagline across top: “The Price of Victory.” Magnus’s name aligned top, credits block bottom. Epic war palette.",
+              "imageFile": "48-1-2-widescreen-2950cff1.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 49,
+      "timing": {
+        "start": "04:00.000",
+        "end": "04:05.000",
+        "duration": 5000,
+        "startSeconds": 240,
+        "endSeconds": 245
+      },
+      "narrative": {
+        "text": "Chasing Greatness. Sports biopic.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for Chasing Greatness",
+        "defaultCharacters": [
+          "Jordan Hale"
+        ],
+        "defaultAmbiance": "Bright motivational light",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"Chasing Greatness\" (Sports biopic)",
+          "attributes": {
+            "setting": "Chasing Greatness movie poster showcase",
+            "characters": [
+              "Jordan Hale"
+            ],
+            "ambiance": "Bright motivational light",
+            "shotDescription": "“Chasing Greatness” – Sports biopic",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "1c12655b",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Sports biopic poster “Chasing Greatness.” Close-up of athlete Jordan Hale, sweat dripping, stadium lights behind. Title in bold motivational font at bottom. Jordan’s name aligned top, tagline: “Every Second Counts.” Billing block bottom. Bright energetic palette.",
+              "imageFile": "49-1-1-close-up-1c12655b.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "85fb3d0b",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “Chasing Greatness.” Jordan Hale sprinting on track as roaring crowd cheers, rivals chasing behind. Title bold bottom-center, tagline across top: “Run for Glory.” Jordan’s name aligned top, credits block bottom. Stadium palette.",
+              "imageFile": "49-1-2-widescreen-85fb3d0b.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    },
+    {
+      "id": 50,
+      "timing": {
+        "start": "04:05.000",
+        "end": "04:10.000",
+        "duration": 5000,
+        "startSeconds": 245,
+        "endSeconds": 250
+      },
+      "narrative": {
+        "text": "City of Songs. Musical Broadway-style.",
+        "speaker": "narrator"
+      },
+      "beatLevelAttributes": {
+        "defaultSetting": "Movie poster for City of Songs",
+        "defaultCharacters": [
+          "Vivienne Clarke"
+        ],
+        "defaultAmbiance": "Vibrant spotlight glow",
+        "defaultMood": "neutral"
+      },
+      "visualConcepts": [
+        {
+          "conceptNumber": 1,
+          "description": "Movie poster: \"City of Songs\" (Musical Broadway-style)",
+          "attributes": {
+            "setting": "City of Songs movie poster showcase",
+            "characters": [
+              "Vivienne Clarke"
+            ],
+            "ambiance": "Vibrant spotlight glow",
+            "shotDescription": "“City of Songs” – Musical Broadway-style",
+            "mood": "neutral"
+          },
+          "variations": [
+            {
+              "variationNumber": 1,
+              "variationUuid": "233d22c2",
+              "label": "close-up",
+              "shotType": "close-up",
+              "imagePrompt": "9:16 Close-up — Simple: Broadway musical poster “City of Songs.” Close-up of singer Vivienne Clarke, mouth open mid-note under spotlight. Title in vibrant glowing font at bottom. Vivienne’s name aligned top, tagline: “Every City Has a Song.” Billing block bottom. Vibrant stage palette.",
+              "imageFile": "50-1-1-close-up-233d22c2.png",
+              "status": "complete",
+              "animations": []
+            },
+            {
+              "variationNumber": 2,
+              "variationUuid": "d3edc767",
+              "label": "widescreen",
+              "shotType": "wide",
+              "imagePrompt": "16:9 Wide — Complex: Poster for “City of Songs.” Vivienne Clarke leading ensemble of dancers on stage, lights flaring, colorful confetti. Title bold bottom-center, tagline across top: “Sing It to the World.” Vivienne’s name aligned top, credits block bottom. Broadway palette.",
+              "imageFile": "50-1-2-widescreen-d3edc767.png",
+              "status": "complete",
+              "animations": []
+            }
+          ]
+        }
+      ],
+      "beatWords": {
+        "stats": {
+          "whisperSegmentId": 0,
+          "wordCount": 0,
+          "globalWordStart": 0,
+          "globalWordEnd": 0
+        },
+        "words": []
+      }
+    }
+  ],
+  "globalWordIndex": [],
+  "timingValidation": {
+    "totalGaps": 0,
+    "gaps": []
+  }
+}
